@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "byapi.client",
+      "type": "com.yxb.byapiclientsdk.BYApiClientConfig",
+      "sourceType": "com.yxb.byapiclientsdk.BYApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "byapi.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.yxb.byapiclientsdk.BYApiClientConfig"
+    },
+    {
+      "name": "byapi.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.yxb.byapiclientsdk.BYApiClientConfig"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,5 @@
+com\yxb\byapiclientsdk\client\BYapiClient.class
+com\yxb\byapiclientsdk\utils\SignUtils.class
+com\yxb\byapiclientsdk\BYApiClientConfig.class
+com\yxb\byapiclientsdk\model\User.class
+META-INF\spring-configuration-metadata.json
